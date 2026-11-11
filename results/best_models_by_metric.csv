@@ -1,0 +1,6 @@
+Метрика,Лучшая модель,Значение
+Accuracy,TensorFlow NN,0.7984386089425124
+Precision,TensorFlow NN,0.6595744680851063
+Recall,ComplementNB,0.8449
+F1-score,LDA,0.6192
+ROC-AUC,TensorFlow NN,0.8430416698958899
